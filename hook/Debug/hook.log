@@ -1,0 +1,5 @@
+﻿  cl : Command line warning D9035 : option 'Gm' has been deprecated and will be removed in a future release
+  my_hook.cpp
+  hook_main.cpp
+  Generating Code...
+  hook.vcxproj -> C:\Users\wuxi\source\repos\global-mouse-and-keyboard-hook\Debug\hook.exe
